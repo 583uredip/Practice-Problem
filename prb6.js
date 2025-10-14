@@ -1,3 +1,4 @@
+/*elephant*/
 let x=parseInt(prompt("Enter the coordinate of your friend's house:"));
 if(isNaN(x) || x<1)
 {
