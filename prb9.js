@@ -1,3 +1,4 @@
+/*A. Word*/
 let s=prompt("Enter Your String");
 let lower=0;
 let uppar=0;
