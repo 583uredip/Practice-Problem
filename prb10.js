@@ -1,3 +1,4 @@
+/*Wrong Subtraction*/
 let n=parseInt(prompt("Enter Your Number:"))
 let k=parseInt(prompt("Enter The Number Of Subtraction"));
 for(let i=0;i<k;i++ )
